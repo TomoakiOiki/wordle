@@ -5,7 +5,7 @@ Solver for [wordle](https://www.nytimes.com/games/wordle/index.html)
 Start with,
 `python3 solver.py`
 
-Then input suggested word on wordle and input result like `-hb--`(`-`:not hit and not blow, `h`: hit, `b`:blow)
+Then input suggested word on wordle and input result like `-hb--`(`-`:⬛, `h`:🟩, `b`:🟨)
 
 # example
 ```
