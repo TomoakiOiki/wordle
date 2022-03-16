@@ -1,6 +1,8 @@
 # What is this?
 Solver for [wordle](https://www.nytimes.com/games/wordle/index.html)
 
+This is a fairly naive method, so there are improvements such as how to efficiently reduce the number of word candidates.
+
 # How to use?
 Start with,
 `python3 solver.py`
